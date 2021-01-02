@@ -1,0 +1,12 @@
+@relation '2019 IAA-AM - Material 01 - 2 – Exemplo 6 – Weka - Estimativa de Volume - Dados_predicted'
+
+@attribute PROJETO {'Fazenda Velha',Parada,'Santa Maria',Jacutinga}
+@attribute CLONE {C3,A3,A4,B7,A2}
+@attribute Idade numeric
+@attribute Hdom numeric
+@attribute AreaBasal numeric
+@attribute Volume numeric
+
+@data
+Jacutinga,A2,87.8,28.8,25.6,?
+'Santa Maria',A2,48.6,25,15.9,?

@@ -1,0 +1,14 @@
+@RELATION “listaDeCompras”
+
+@ATTRIBUTE leite {Y, n}
+@ATTRIBUTE pao  {Y, n}
+@ATTRIBUTE bolacha {Y, n}
+@ATTRIBUTE suco {Y, n}
+@ATTRIBUTE ovos {Y, n}
+@ATTRIBUTE cafe {Y, n}
+
+@data
+Y,Y,Y,Y,?,?
+Y,?,?,Y,?,?
+Y,?,?,?,Y,?
+?,Y,Y,?,?,Y

@@ -1,0 +1,18 @@
+@relation '2019 IAA-AM - Material 01 - 2 – Exemplo 5 – Weka - Cancer de Mama_predicted'
+
+@attribute '' numeric
+@attribute Cl.thickness numeric
+@attribute Cell.size numeric
+@attribute Cell.shape numeric
+@attribute Marg.adhesion numeric
+@attribute Epith.c.size numeric
+@attribute Bare.nuclei numeric
+@attribute Bl.cromatin numeric
+@attribute Normal.nucleoli numeric
+@attribute Mitoses numeric
+@attribute 'prediction margin' numeric
+@attribute Class {benign,malignant}
+
+@data
+662,4,1,1,1,2,1,3,1,1,1,?
+306,10,8,4,4,4,10,3,10,4,0.999774,?
